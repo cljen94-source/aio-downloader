@@ -7,6 +7,67 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/19 00:12
+---
+
+## BBCPersian — post 280524
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_280524_1778272979.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دونالد ترامپ، رئیس جمهور آمریکا از برقراری آتش‌بس سه‌روزه میان روسیه و اوکراین خبر داد؛ پس از آن‌که دو طرف یکدیگر را به نقض آتش‌بس‌های جداگانه مرتبط با مراسم سالگرد پیروزی اتحاد جماهیر شوروی بر آلمان نازی متهم کردند.
+
+آقای ترامپ گفت: «این آتش‌بس شامل توقف همه فعالیت‌های نظامی و همچنین تبادل هزار زندانی از هر دو کشور خواهد بود.»
+
+اندکی بعد، ولودیمیر زلنسکی، رئیس‌جمهور اوکراین، مشارکت کشورش در این طرح را تایید کرد و رسانه‌های دولتی روسیه نیز اعلام کردند که مسکو با این پیشنهاد موافقت کرده است.
+
+پیشتر، مقام‌های دو کشور گفته بودند که طرف مقابل همچنان مواضع آن‌ها را هدف حمله قرار می‌دهد و شهردار مسکو نیز از حملات پهپادی شبانه به این شهر خبر داده بود.
+ادامه مطلب⬇️
+
+📸 AFP via Getty Images
+https://bbc.in/4uGkRu8
+@BBCPersian
+</div>
+
+## alonews — post 118770
+
+<div align="center">
+  <a href="telegram/content/alonews_118770_1778272980.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی قرارگاه خاتم:
+ما از موضع ضعف مذاکره نمی‌کنیم؛ بلکه به دشمن آخرین فرصت را می‌دهیم تا از آنچه غیرقابل توصیف است، اجتناب کند. اگر درِ گفتگو را ببندید، دروازه‌های جهنم به رویتان گشوده خواهد شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118769
+
+<div align="center">
+  <a href="telegram/content/alonews_118769_1778272980.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مظاهر حسینی،مسئول دیدارهای دفتر رهبر : مجتبی خامنه‌ای بر اثر موج انفجار موجی شده بود اما خوب شده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 118768
+
+<div align="center">
+  <a href="telegram/content/alonews_118768_1778272982.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈گفتگوی تلفنی وزرای خارجه ایران و ترکیه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/19 00:08
 ---
 
