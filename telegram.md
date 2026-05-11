@@ -7,6 +7,84 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 02:33
+---
+
+## VahidOOnLine — post 239599
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239599_1778540583.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️براساس تصاویر ماهواره «سنتینل»، ورود آب از رودخانه‌های کرخه و دجله به تالاب هورالعظیم در مرز ایران و عراق همچنان ادامه دارد. این تصاویر ماهواره‌ای که آخرین وضعیت هورالهویزه را به تصویر کشیده‌اند، نشان‌دهنده تداوم جریان آب به بخش‌های مختلف این تالاب بین‌المللی است. همچنین در تصاویر ثبت‌شده با طیف رنگی کاذب (False color)، وضعیت پراکندگی و تراکم نیزارها در پهنه آبی تالاب به وضوح قابل مشاهده است که از بهبود نسبی شرایط زیست‌محیطی در این منطقه مرزی حکایت دارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11019
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : این داستان انتقال هواپیماهای نظامی و غیر نظامی به پاکستان و افغانستان رو که خوندم عجیب یاد اواخر حکومت صدام حسین افتادم!
+اونم وقتی آمریکا بهش حمله تقریبا تمام جنگنده ها و هواپیماهای ترابری نظامیش رو منتقل کرد به ایران
+که البته ایران دیگه بهش پس نداد
+اونم شیر نفت رو باز کرد تو خلیج فارس!
+اونم به طرفداراش میگفت هر شب بیاید تو خیابون و از من حمایت کنید
+@withyashar
+</div>
+
+## WithYashar — post 11018
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رهبر دموکرات‌های سنای آمریکا: برای هفتمین‌بار، طرح محدود کردن اختیارات جنگی ترامپ و پایان دادن جنگ ایران به رأی گذاشته می‌شود.
+
+چاک شومر: تکرار می‌کنم، ترامپ آمریکا را به یک جنگ غیرقانونی، پرهزینه و بدون هیچ هدف و هیچ پایانی کشاند.
+@withyashar
+</div>
+
+## IranIntlTV — post 336718
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336718_1778540584.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شهروندی با ارسال پیامی به ایران‌اینترنشنال، به مزاحمت‌های شبانه حامیان جمهوری اسلامی در خیابان‌های کرج اشاره می‌کند و می‌گوید آن‌ها هیچ ملاحظه‌ای برای کسی ندارند.
+او در ادامه می‌گوید: «کسی به داد ما نمی‌رسد؛ جوانان ما دارند از بین می‌روند.»
+</div>
+
+## Shin_Persian — post 5962
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_5962_1778540585.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Mon, 11 May 2026 23:00:36 UTC
+
+A U.S. Air Force B-1B Lancer flies over the Middle East during a training mission, May 9.
+
+فارسی
+
+یک فروند بمب‌افکن بی-۱بی لنسر نیروی هوایی ایالات متحده (USAF) در جریان یک ماموریت آموزشی، ۹ می، برفراز خاورمیانه پرواز می‌کند.
+
+𝕏 · @shin_persian
+</div>
+
+## alonews — post 119405
+
+<div align="center">
+  <a href="telegram/content/alonews_119405_1778540586.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈دو روزنامه تندرو و کم مخاطب داخلی مذاکرات با ایالات متحده را رد کردند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 02:23
 ---
 
