@@ -7,6 +7,188 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 22:52
+---
+
+## VahidOOnLine — post 239578
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239578_1778527372.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239577
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239577_1778527374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایالات متحده تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، ۴ نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
+
+طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شده‌اند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## pm_afshaa — post 90589
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_90589_1778527375.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔔فقط با 190 هزار تومن 💸! 🛍
+
+🚨اشتراک ویژه و پرسرعت با قیمتی استثنایی💎
+
+📉 بدون هیچ‌گونه ضریب
+
+🚩پشتیبانی 4️⃣2️⃣ ساعته فعال⚙️
+
+⚡️خرید مستقیم، بدون واسطه⚡️
+
+✅تضمین بازگشت وجه در صورت عدم رضایت
+
+⚠️فرصت محدود — همین حالا اقدام کنید🔔
+
+
+✔️ برای خرید ربات رو استارت کنید ⬇️
+
+✅ @Zeus_networkrobot
+</div>
+
+## IranIntlTV — post 336699
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336699_1778527376.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ایالات متحده تحریم‌های جدیدی مرتبط با جمهوری اسلامی علیه سه فرد و ۹ نهاد، از جمله چهار نهاد مستقر در هنگ‌کنگ، ۴ نهاد در امارات متحده عربی و یک نهاد در عمان وضع کرد.
+
+طبق این گزارش، محمدرضا اشرفی، صمد فتحی سلامی و احمد محمدی‌زاده به دلیل ارتباط با سپاه پاسداران تحریم شده‌اند.
+https://iranintl.com/202605111289
+</div>
+
+## ManotoTV — post 105322
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105322_1778527376.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+</div>
+
+## FarsiVOA — post 217472
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پنتاگون اعلام کرد سربازان لشکر ۲۵ پیاده‌نظام در پایگاه فورت ماگسایسای در فیلیپین، تمرین انتقال تجهیزات سنگین با بالگرد را برگزار کردند.
+
+به گفته وزارت جنگ آمریکا، هدف از این تمرین افزایش سرعت و دقت در پشتیبانی از عملیات نظامی در میدان نبرد است.
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 217471
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️علی جوانمردی: چالش مذاکره و گزینه‌های پیش رو
+@FarsiVOA
+</div>
+
+## manototv — post 105322
+
+<div align="center">
+  <a href="telegram/content/manototv_105322_1778527378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از رشت:
+«از رضا سمیع‌پور گفت…
+۵۱ ساله، مردی نجیب و حامی حیوانات که جلوی خانه‌اش از پشت هدف گلوله قرار گرفت.
+و از آیدین دولت‌خواه…
+جوان ۲۲ ساله‌ای که با چهار گلوله کشته شد.
+</div>
+
+## alonews — post 119370
+
+<div align="center">
+  <a href="telegram/content/alonews_119370_1778527380.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شلیک موشک به سمت جنوب اسرائیل شناسایی شده
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119369
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اخبار جنگ الونیوز AloNews pinned a photo
+</div>
+
+## alonews — post 119368
+
+<div align="center">
+  <img src="telegram/content/alonews_119368_1778527380.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔥
+🔝از اول جنگ کانفیگ های اینجا وصله بدون قطعی، سروراش تضمین بازگشت وجه داره، درجه یک با کیفیت. قیمت خیلی مناسب گیگی 250 پرداخت ارزی و تومن داره
+
+
+🖥آیدی خود عسل @Asal_vpn021
+
+آیدی کانالش
+⬇️
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+
+👑
+⭐️https://t.me/+wXrSv4IM6p9kNGQ0
+</div>
+
+## alonews — post 119367
+
+<div align="center">
+  <a href="telegram/content/alonews_119367_1778527381.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت خزانه داری آمریکا تحریم های جدیدی علیه افراد مرتبط با ایران اعمال کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119366
+
+<div align="center">
+  <a href="telegram/content/alonews_119366_1778527381.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس: آمریکا داره تسلیم میشه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 22:42
 ---
 
