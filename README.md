@@ -32,6 +32,7 @@
    - [۷. لیچر (Leecher) – میانبر + دستورات خام](#۷-لیچر-leecher--میانبر--دستورات-خام)
    - [۸. پاک‌کننده جامع (AIO Cleaner)](#۸-پاککننده-جامع-aio-cleaner)
    - [۹. دانلودر گوگل پلی (APK)](#۹-دانلودر-گوگل-پلی-apk)
+   - [۱۰. MHRV خروجی VPS (Exit Node)](#۱۰-mhrv-خروجی-vps-exit-node)
 5. [محدودیت‌ها و هشدارهای مهم](#-محدودیتها-و-هشدارهای-مهم)
 6. [فایل zoomusers.md چیست؟](#-فایل-zoomusersmd-چیست)
 
@@ -45,6 +46,7 @@
 | 🟠 **مرورگر + افزونه Get cookies.txt LOCALLY** | Chrome / Firefox / Edge |
 | 🔵 **حساب اینستاگرام** | (اختیاری) برای استوری و محتوای خصوصی |
 | 🔴 **حساب X (توییتر)** | **الزامی** برای دانلودر X |
+| 🟣 **حساب Cloudflare** | (اختیاری) برای MHRV Exit Node — نیاز به **TUNNEL_AUTH_KEY** |
 | 🟢 **تلگرام، ضبط وبسایت، و گوگل پلی** | هیچ چیز اضافی نیاز ندارند |
 
 ---
@@ -71,13 +73,16 @@
 > به **Actions** → **aio-cleaner** بروید، گزینه **Clean ALL platforms** را تیک بزنید و اجرا کنید.  
 > با این کار همه چیز پاک می‌شود و می‌توانید از صفر شروع کنید.
 
+### مرحله ۵ (اختیاری): تنظیم Secret برای MHRV Exit Node
+> اگر قصد دارید از **MHRV VPS Exit Node** (بخش ۱۰) استفاده کنید، یک Secret به نام **`TUNNEL_AUTH_KEY`** بسازید و رمز PSK خود را در آن قرار دهید. این رمز باید دقیقاً با `psk` یا `auth_key` در فایل `config.json` پروژه **MasterHttpRelayVPN** شما یکسان باشد.
+
 ---
 
 ## 🍪 نحوه استخراج و افزودن کوکی‌ها
 
 > ℹ️ **یوتیوب و اینستاگرام:** برای برخی محتواها به کوکی نیاز دارند.  
 > 🔴 **X (توییتر): حتماً به کوکی نیاز دارد.**  
-> 🟢 **تلگرام، ضبط وبسایت، و گوگل پلی:** بدون کوکی کار می‌کنند.
+> 🟢 **تلگرام، ضبط وبسایت، گوگل پلی، و MHRV Exit Node:** بدون کوکی کار می‌کنند.
 
 ### ۱. استخراج کوکی‌ها — حتماً از پنجره ناشناس (Private/Incognito) استفاده کنید!
 
@@ -89,6 +94,13 @@
 6. **پنجره خصوصی را کاملاً ببندید** — این کار اطمینان می‌دهد نشست صادرشده در جای دیگری باز نمی‌ماند
 
 > 🔴 **چرا پنجره ناشناس؟** اگر در پنجره معمولی کوکی استخراج کنید و بعداً از آن سایت خارج شوید (Logout)، کوکی‌ها بی‌اعتبار می‌شوند. پنجره ناشناس را ببندید تا نشست بسته شود اما کوکی‌ها معتبر بمانند.
+
+> ⚠️ **هشدار مهم درباره کوکی‌ها:** کوکی‌ها به مرور زمان منقضی می‌شوند یا توسط سرویس‌دهنده باطل می‌شوند. علائم خرابی کوکی:
+> - خطای **Sign in to confirm you're not a bot** در دانلود یوتیوب
+> - خطای **429 Too Many Requests** در دانلود اینستاگرام
+> - دانلود موفق گزارش می‌شود اما فایلی در پوشه خروجی نیست
+>
+> در این موارد، کوکی جدید از پنجره ناشناس استخراج کرده و Secret مربوطه را به‌روزرسانی کنید.
 
 ### ۲. افزودن کوکی‌ها به GitHub Secrets
 
@@ -144,17 +156,18 @@
 3. ورودی‌ها را وارد کنید. **فرمت:** `URL v/a رزولوشن fps` (fps اختیاری)
 
 **مثال‌ها:**
-```
++++
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
 https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-```
++++
 
 - `v` = ویدیو، `a` = صدا
 - رزولوشن: `max`, `min`, `1080`, `2k`, `4k` و غیره
 - FPS: اختیاری (مثلاً `60`, `30`)
 - اگر `v/a` را وارد نکنید، پیش‌فرض **حداکثر کیفیت ویدیو** انتخاب می‌شود
+- برای حداکثر کیفیت صدا (`a max`) خروجی به صورت `.opus` ذخیره می‌شود
 
 4. روی **Run workflow** کلیک کنید → خروجی در پوشه **`youtube/`** (با ZIP چندبخشی برای فایل‌های بزرگ)
 
@@ -171,11 +184,13 @@ https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=V
 3. لینک‌های اینستاگرام را با کاما، فاصله یا خط جدید جدا کنید
 
 **مثال:**
-```
++++
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
-```
++++
 
 4. روی **Run workflow** کلیک کنید → فایل ZIP در پوشه **`instagram/`** قرار می‌گیرد (تا ۱۰+ لینک در یک ZIP)
+
+> ⚠️ **اخطار خطای ۴۲۹:** اگر خطای **429 Too Many Requests** دریافت کردید، به‌احتمال زیاد کوکی اینستاگرام شما منقضی یا محدود شده است. کوکی جدید از پنجره ناشناس استخراج کرده و `INSTAGRAM_COOKIES` را به‌روزرسانی کنید.
 
 ---
 
@@ -190,9 +205,9 @@ https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0
 3. لینک‌های X را با کاما، فاصله یا خط جدید جدا کنید
 
 **مثال:**
-```
++++
 https://x.com/username/status/123456789, https://x.com/otheruser/status/987654321
-```
++++
 
 4. روی **Run workflow** کلیک کنید → ZIP در پوشه **`x/`** قرار می‌گیرد
 
@@ -207,11 +222,13 @@ https://x.com/username/status/123456789, https://x.com/otheruser/status/98765432
 3. لینک‌های مستقیم (`.zip`, `.mp4`, `.apk`, `.pdf` و غیره) را بچسبانید
 
 **مثال:**
-```
++++
 https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
-```
++++
 
 4. روی **Run workflow** کلیک کنید → فایل‌ها در **`direct/`** (بزرگتر از ۹۹MB به ZIP چندبخشی تقسیم می‌شوند)
+
+> ℹ️ **توجه:** برای جلوگیری از تداخل با دانلودهای قبلی، یک رشته ۵ حرفی تصادفی به نام فایل اضافه می‌شود. با این کار می‌توانید همان فایل را چندین بار بدون خطا دانلود کنید.
 
 ---
 
@@ -257,9 +274,9 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 > ✅ `channelname` — درست
 
 **مثال:**
-```
++++
 ["VahidOOnLine", "mwarmonitor", "pm_afshaa", "iaghapour", "DEJradio", "mamlekate", "kianmeli1"]
-```
++++
 
 > ⚠️ فقط کانال‌های **عمومی (Public)** کار می‌کنند. کانال‌های خصوصی قابل دسترسی نیستند.
 
@@ -281,11 +298,11 @@ https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
 3. آدرس کامل (حتماً با `https://` شروع شود) را وارد کنید
 
 **مثال‌ها:**
-```
++++
 https://example.com/article/my-post
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://github.com/ProAlit/aio-downloader
-```
++++
 
 4. کلیک کنید → ظرف ۵–۱۰ دقیقه PDF در پوشه **`website/`** ظاهر می‌شود
 
@@ -330,14 +347,14 @@ https://github.com/ProAlit/aio-downloader
 > ℹ️ **نکته:** برای سایت‌هایی مثل اینستاگرام و تیک‌تاک که به کوکی نیاز دارند، ابتدا کوکی‌ها را به Secrets اضافه کنید (مطابق بخش ۳) و سپس در دستور `--cookies /path/to/cookies.txt` را قرار دهید. لیچر فایل کوکی را از Secret می‌خواند و در مسیر استاندارد ذخیره می‌کند.
 
 #### 🟢 حالت میانبر را فراموش نکنید:
-```
++++
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
 https://soundcloud.com/artist/track a 320
-```
++++
 
 1. به **Actions** → **leecher** بروید
 2. ورودی‌ها را وارد کنید (می‌توانید ترکیبی از لینک‌های میانبر و خام را با هم استفاده کنید)
-4. خروجی‌ها به صورت زیپ شده در پوشه **`leecher/`** قرار می‌گیرند
+3. خروجی‌ها به صورت زیپ شده در پوشه **`leecher/`** قرار می‌گیرند
 
 ---
 
@@ -358,6 +375,7 @@ https://soundcloud.com/artist/track a 320
 | **وبسایت** | کل پوشه `website/` |
 | **لیچر** | کل پوشه `leecher/` |
 | **گوگل پلی** | کل پوشه `google-play/` |
+| **دانلود مستقیم** | کل پوشه `direct/` |
 
 #### نحوه اجرا:
 
@@ -370,7 +388,7 @@ https://soundcloud.com/artist/track a 320
 
 ---
 
-### ۹. دانلودر گوگل پلی (APK) 🆕
+### ۹. دانلودر گوگل پلی (APK)
 
 📱 **فایل‌های APK اندروید را مستقیماً از گوگل پلی دانلود کنید!**  
 این گردش‌کار از ابزار `gplay-apk-downloader` برای دانلود قانونی و رسمی بسته‌های نصبی (APK) از سرورهای گوگل استفاده می‌کند — بدون نیاز به دستگاه اندروید، بدون نیاز به اکانت گوگل، و کاملاً خودکار.
@@ -386,26 +404,26 @@ https://soundcloud.com/artist/track a 320
 
 1. به **Actions** → **google-play-downloader** بروید
 2. روی **Run workflow** کلیک کنید
-3. سه فیلد زیر را پر کنید:
+3. فیلدها را پر کنید:
 
 | فیلد | توضیح | اجباری؟ |
 |------|-------|---------|
-| **package_name** | نام پکیج اندروید برنامه (مثلاً `com.google.android.youtube`) | ✅ بله |
+| **app** | آدرس Google Play یا نام پکیج (مثلاً `com.google.android.youtube` یا `https://play.google.com/store/apps/details?id=org.telegram.messenger`) | ✅ بله |
 | **architecture** | معماری دستگاه هدف: `arm64` (پیش‌فرض) یا `armv7` | ✅ بله |
 | **merge_splits** | ادغام APKهای Split شده در یک فایل؟ (پیش‌فرض: فعال) | ❌ اختیاری |
 
 **مثال‌ها:**
-```
-package_name: com.google.android.youtube
++++
+app: com.google.android.youtube
 architecture: arm64
 merge_splits: true
-```
++++
 
-```
-package_name: com.spotify.music
++++
+app: https://play.google.com/store/apps/details?id=com.spotify.music
 architecture: armv7
 merge_splits: false
-```
++++
 
 4. روی **Run workflow** کلیک کنید → فایل‌های APK (ZIP شده) در پوشه **`google-play/`** قرار می‌گیرند
 
@@ -415,7 +433,97 @@ merge_splits: false
 2. به بخش `id=` در URL نگاه کنید — همان نام پکیج است
 3. یا از وب‌سایت‌هایی مثل [APKMirror](https://www.apkmirror.com) یا [APKPure](https://apkpure.com) نام پکیج را جستجو کنید
 
+> ⚠️ **توجه:** گاهی مرحله احراز هویت گوگل پلی ممکن است چند دقیقه طول بکشد. اگر گردش‌کار در مرحله **generate random identifier** ماند، صبور باشید — این بخشی از فرآیند عادی است.
+
 > ℹ️ این گردش‌کار فایل‌های APK را مستقیماً از سرورهای گوگل دریافت می‌کند، بنابراین نسخه‌های دریافتی رسمی و دست‌نخورده هستند.
+
+---
+
+### ۱۰. MHRV خروجی VPS (Exit Node) 🆕
+
+🔐 **یک Exit Node کامل از نوع VPS برای پروژه MasterHttpRelayVPN روی GitHub Actions اجرا کنید!**
+
+این گردش‌کار یک سرور رله HTTP روی پورت 8181 اجرا می‌کند، آن را با **cloudflared tunnel** از طریق **trycloudflare.com** به صورت امن در معرض اینترنت قرار می‌دهد، و یک URL عمومی موقت تولید می‌کند که می‌توانید مستقیماً در `config.json` پروژه **MasterHttpRelayVPN** به عنوان `exit_node` استفاده کنید.
+
+#### ✨ ویژگی‌ها:
+- 🐍 سرور رله Python کاملاً مستقل (بدون نیاز به VPS شخصی)
+- 🔒 احراز هویت با **Pre-Shared Key (PSK)** — بدون رمز معتبر، هیچ درخواستی پردازش نمی‌شود
+- 🌐 تونل امن Cloudflare با HTTPS رایگان (trycloudflare)
+- ⏱️ اجرای ۶ ساعته (حداکثر زمان GitHub Actions)
+- 🛡️ محافظت در برابر SSRF — فقط URLهای عمومی (http/https) قابل relay هستند
+- 🔄 پراکسی کامل HTTP با پشتیبانی از تمام متدها و هدرهای استاندارد
+
+#### 📝 نحوه استفاده:
+
+##### گام اول: تنظیم Secret
+1. به **Settings** → **Secrets and variables** → **Actions** بروید
+2. یک **New repository secret** با نام **`TUNNEL_AUTH_KEY`** بسازید
+3. یک **رمز قوی و طولانی** (PSK) به‌دلخواه خود وارد کنید (مثلاً: `MyStr0ng!RandomP@ssphrase2026`)
+
+> 🔴 **مهم:** این رمز باید دقیقاً با `psk` (برای exit node) یا `auth_key` (در config.json) در پروژه **MasterHttpRelayVPN** شما یکسان باشد.  
+> مسیر در config.json:  
+> `"exit_node": { "enabled": true, "provider": "vps", "url": "URL_دریافتی_از_گردشکار", "psk": "همان_رمز_TUNNEL_AUTH_KEY" }`
+
+##### گام دوم: اجرای گردش‌کار
+1. به **Actions** → **mhrv-vps-exit-node-actions** بروید
+2. روی **Run workflow** کلیک کنید
+3. منتظر بمانید تا گردش‌کار اجرا شود (حدود ۲۰–۳۰ ثانیه)
+
+##### گام سوم: دریافت URL
+در لاگ گردش‌کار، خطی مشابه زیر ظاهر می‌شود:
++++
+https://random-name.trycloudflare.com
++++
+این URL خروجی نود شماست — آن را کپی کنید.
+
+##### گام چهارم: تنظیم در MasterHttpRelayVPN
+
+فایل `config.json` پروژه MasterHttpRelayVPN خود را باز کنید و بخش `exit_node` را به این صورت تنظیم کنید:
+
++++
+"exit_node": {
+  "enabled": true,
+  "provider": "vps",
+  "url": "https://random-name.trycloudflare.com",
+  "psk": "MyStr0ng!RandomP@ssphrase2026",
+  "mode": "full",
+  "hosts": ["chatgpt.com", "openai.com", "claude.ai", "anthropic.com"]
+}
++++
+
+| فیلد | مقدار |
+|-------|--------|
+| `provider` | `"vps"` (چون این Exit Node از نوع VPS است) |
+| `url` | همان URL که از لاگ گردش‌کار دریافت کردید |
+| `psk` | **دقیقاً** همان رمزی که در Secret `TUNNEL_AUTH_KEY` تنظیم کردید |
+| `mode` | `"full"` (همه ترافیک از exit node عبور کند) یا `"selective"` (فقط hostهای مشخص‌شده) |
+
+#### ⚙️ معماری فنی (چه اتفاقی می‌افتد؟)
+
+1. **python-exit-node.py** یک سرور HTTP روی `127.0.0.1:8181` راه‌اندازی می‌کند
+2. **cloudflared** یک تونل امن بین سرور محلی و شبکه Cloudflare ایجاد می‌کند
+3. یک URL موقت trycloudflare (HTTPS) به کاربر داده می‌شود
+4. درخواست‌های MasterHttpRelayVPN به این URL می‌رسد، cloudflared آن را به پورت 8181 فوروارد می‌کند
+5. سرور Python درخواست را احراز هویت کرده (با PSK) و به مقصد نهایی relay می‌کند
+
+#### ⚠️ هشدارها و نکات مهم:
+
+| نکته | توضیح |
+|------|--------|
+| 🔴 **مدت اعتبار** | حداکثر ۶ ساعت — بعد از آن نیاز به اجرای مجدد دارد |
+| 🟡 **URL موقت** | trycloudflare URLها موقت هستند و هر اجرا یک URL جدید تولید می‌کند |
+| 🔴 **امنیت PSK** | **هرگز** URL خروجی و PSK را با هم جایی عمومی منتشر نکنید |
+| 🟡 **محدودیت پهنای باند** | GitHub Actions پهنای باند محدودی دارد — برای استفاده سنگین مناسب نیست |
+| 🟢 **بدون نیاز به کوکی** | فقط به `TUNNEL_AUTH_KEY` نیاز دارد |
+
+#### 🔧 رفع اشکال:
+
+| خطا | علت احتمالی | راه حل |
+|------|-------------|--------|
+| `unauthorized` در لاگ | PSK اشتباه است | مطمئن شوید `psk` در config.json دقیقاً با `TUNNEL_AUTH_KEY` یکسان است |
+| `server_psk_missing` | Secret تنظیم نشده | `TUNNEL_AUTH_KEY` را در Secrets بسازید |
+| URL ظاهر نمی‌شود | cloudflared راه‌اندازی نشده | گردش‌کار را دوباره اجرا کنید |
+| `bad_url` | URL نامعتبر یا خصوصی | فقط URLهای عمومی http/https قابل relay هستند |
 
 ---
 
@@ -423,7 +531,7 @@ merge_splits: false
 
 | هشدار | توضیح |
 |-------|--------|
-| 🔴 **محدودیت فضای مخزن** | حساب رایگان GitHub تا حدود ۵ گیگابایت فضای نرم دارد. فایل‌های دانلودی (مخصوصاً ویدیوها و APKها) می‌توانند به سرعت فضا را پر کنند. **مرتباً از AIO Cleaner استفاده کنید!** |
+| 🔴 **محدودیت فضای مخزن** | حساب رایگان GitHub تا حدود **۵ گیگابایت** فضای نرم دارد. فایل‌های دانلودی (مخصوصاً ویدیوها و APKها) می‌توانند به سرعت فضا را پر کنند. فایل‌های خیلی بزرگ (مثلاً ۴.۳ گیگابایت) به ده‌ها پارت ZIP تبدیل می‌شوند و ممکن است push با خطا مواجه شود. **مرتباً از AIO Cleaner استفاده کنید و حجم مخزن را زیر ۵ گیگابایت نگه دارید!** |
 | 🟠 **زمان اجرا** | حداکثر ۶ ساعت برای هر اجرا (مخازن عمومی دقیقه نامحدود دارند) |
 | 🟡 **فایل‌های >۹۹MB** | به ZIP چندبخشی تقسیم می‌شوند — برای استخراج از 7‑Zip یا WinRAR استفاده کنید |
 | 🟡 **دسته‌های بزرگ** | لینک‌های خیلی زیاد را به گروه‌های کوچکتر تقسیم کنید |
@@ -432,8 +540,10 @@ merge_splits: false
 | 🟢 **ضبط وبسایت** | فقط سایت‌های عمومی (بدون دیوار ورود) |
 | 🔴 **نام کانال تلگرام** | **بدون @** وارد کنید |
 | 🟠 **اجرای زمان‌بندی تلگرام** | ممکن است با تأخیر ۱ تا ۶ ساعت اجرا شود. برای دریافت سریع‌تر، اجرای دستی قابل اعتمادتر است |
-| 🔴 **کوکی‌ها** | فقط از **پنجره ناشناس/خصوصی** استخراج کنید و بعد از استخراج، آن پنجره را کاملاً ببندید |
+| 🔴 **کوکی‌ها** | فقط از **پنجره ناشناس/خصوصی** استخراج کنید و بعد از استخراج، آن پنجره را کاملاً ببندید. کوکی‌های منقضی باعث خطای Sign in to confirm you're not a bot (یوتیوب) یا 429 Too Many Requests (اینستاگرام) می‌شوند |
 | 🟢 **گوگل پلی** | بدون نیاز به اکانت گوگل — احراز هویت خودکار است |
+| 🔴 **ساخت خودکار پوشه‌ها** | پوشه‌های خروجی (مثل `youtube/`, `leecher/`, `direct/` و غیره) بعد از اولین دانلود موفق **به‌صورت خودکار** ساخته می‌شوند. نیاز به ساخت دستی نیست! |
+| 🟣 **MHRV Exit Node** | حداکثر ۶ ساعت — URL موقت trycloudflare — نیاز به `TUNNEL_AUTH_KEY` |
 
 ---
 
@@ -466,21 +576,22 @@ merge_splits: false
 
 ## 📋 Table of Contents
 
-1. [Prerequisites](#-prerequisites)
-2. [Fork & Initial Setup](#-fork--initial-setup)
-3. [How to Extract & Add Cookies](#-how-to-extract--add-cookies)
-4. [Complete Workflow Guide](#-complete-workflow-guide)
-   - [1. YouTube Downloader (yt‑dlp Simple)](#1-youtube-downloader-yt-dlp-simple)
-   - [2. Instagram Downloader](#2-instagram-downloader)
-   - [3. X (Twitter) Downloader](#3-x-twitter-downloader)
-   - [4. Direct Downloader](#4-direct-downloader)
-   - [5. Telegram Channel Archiver](#5-telegram-channel-archiver)
-   - [6. Website Capture](#6-website-capture)
-   - [7. Leecher – Shortcut + Raw Commands](#7-leecher--shortcut--raw-commands)
-   - [8. AIO Cleaner](#8-aio-cleaner)
-   - [9. Google Play APK Downloader](#9-google-play-apk-downloader)
-5. [Limitations & Important Warnings](#-limitations--important-warnings)
-6. [What is `zoomusers.md`?](#-what-is-zoomusersmd)
+1. [Prerequisites](#-prerequisites-1)
+2. [Fork & Initial Setup](#-fork--initial-setup-1)
+3. [How to Extract & Add Cookies](#-how-to-extract--add-cookies-1)
+4. [Complete Workflow Guide](#-complete-workflow-guide-1)
+   - [1. YouTube Downloader (yt‑dlp Simple)](#1-youtube-downloader-yt-dlp--10-fallback-layers-)
+   - [2. Instagram Downloader](#2-instagram-downloader-1)
+   - [3. X (Twitter) Downloader](#3-x-twitter-downloader-1)
+   - [4. Direct Downloader](#4-direct-downloader-1)
+   - [5. Telegram Channel Archiver](#5-telegram-channel-archiver-1)
+   - [6. Website Capture](#6-website-capture-1)
+   - [7. Leecher – Shortcut + Raw Commands](#7-leecher--shortcut--raw-commands-1)
+   - [8. AIO Cleaner](#8-aio-cleaner-1)
+   - [9. Google Play APK Downloader](#9-google-play-apk-downloader-1)
+   - [10. MHRV VPS Exit Node](#10-mhrv-vps-exit-node-)
+5. [Limitations & Important Warnings](#-limitations--important-warnings-1)
+6. [What is `zoomusers.md`?](#-what-is-zoomusersmd-1)
 
 ---
 
@@ -492,6 +603,7 @@ merge_splits: false
 | 🟠 **Browser + Get cookies.txt LOCALLY extension** | Chrome / Firefox / Edge |
 | 🔵 **Instagram Account** | (Optional) for stories & private content |
 | 🔴 **X (Twitter) Account** | **Mandatory** for the X downloader |
+| 🟣 **Cloudflare Account** | (Optional) for MHRV Exit Node — needs **TUNNEL_AUTH_KEY** |
 | 🟢 **Telegram, Website Capture, & Google Play** | Nothing extra needed — work without login or API keys |
 
 ---
@@ -518,13 +630,16 @@ Click the **Fork** button at the top‑right of this page.
 > Go to **Actions** → **aio-cleaner**, check **Clean ALL platforms**, and run it.  
 > This will wipe everything so you can begin fresh.
 
+### Step 5 (Optional): Set Secret for MHRV Exit Node
+> If you plan to use the **MHRV VPS Exit Node** (section 10), create a Secret named **`TUNNEL_AUTH_KEY`** containing your PSK. This must match the `psk` or `auth_key` in your **MasterHttpRelayVPN** `config.json` exactly.
+
 ---
 
 ## 🍪 How to Extract & Add Cookies
 
 > ℹ️ **YouTube & Instagram:** May require cookies for some content.  
 > 🔴 **X (Twitter): Cookies are MANDATORY.**  
-> 🟢 **Telegram, Website Capture, & Google Play:** No cookies needed.
+> 🟢 **Telegram, Website Capture, Google Play, & MHRV Exit Node:** No cookies needed.
 
 ### 1. Export Cookies from Your Browser – USE A PRIVATE/INCOGNITO WINDOW!
 
@@ -536,6 +651,13 @@ Click the **Fork** button at the top‑right of this page.
 6. **Close the private window completely** — this ensures the exported session isn't kept open elsewhere
 
 > 🔴 **Why a private window?** If you export cookies from a normal window and later log out, the cookies become invalid. Closing a private window ends the session while keeping the exported cookies valid.
+
+> ⚠️ **Important Warning About Cookies:** Cookies expire or get invalidated over time. Signs of bad cookies:
+> - **Sign in to confirm you're not a bot** error in YouTube downloads
+> - **429 Too Many Requests** error in Instagram downloads
+> - Download reports success but no file appears in the output folder
+>
+> In these cases, extract fresh cookies from a new private window and update the corresponding Secret.
 
 ### 2. Add Cookies as GitHub Secrets
 
@@ -591,17 +713,18 @@ Click the **Fork** button at the top‑right of this page.
 3. Enter your inputs. **Format:** `URL v/a resolution fps` (fps optional)
 
 **Examples:**
-```
++++
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 480
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080 60
 https://www.youtube.com/watch?v=dfdXGw1xY9A a max
 https://www.youtube.com/watch?v=VIDEO_ID v 4k, https://www.youtube.com/watch?v=VIDEO_ID a 128
-```
++++
 
 - `v` = video, `a` = audio
 - Resolution: `max`, `min`, `1080`, `2k`, `4k`, etc.
 - FPS: optional (e.g., `60`, `30`)
 - If `v/a` is omitted, defaults to **video max quality**
+- Maximum audio quality (`a max`) outputs in `.opus` format
 
 4. Click **Run workflow** → output appears in **`youtube/`** folder (split ZIP for large files)
 
@@ -618,11 +741,13 @@ Downloads **all media** from posts, reels, stories, highlights, and profiles —
 3. Paste Instagram links — separated by commas, spaces, or newlines
 
 **Example:**
-```
++++
 https://www.instagram.com/p/DX2y7oLDFOb/, https://www.instagram.com/reel/DVRXhn0gjL3/, https://www.instagram.com/p/DX6US4uCNGb/
-```
++++
 
 4. Click **Run workflow** → ZIP appears in the **`instagram/`** folder (up to 10+ links bundled in one ZIP)
+
+> ⚠️ **Warning about 429 Error:** If you get a **429 Too Many Requests** error, your Instagram cookies are likely expired or rate-limited. Extract fresh cookies from a new private window and update `INSTAGRAM_COOKIES`.
 
 ---
 
@@ -637,9 +762,9 @@ Downloads **all media** (images, videos) from tweets and profiles.
 3. Paste X links — separated by commas, spaces, or newlines
 
 **Example:**
-```
++++
 https://x.com/username/status/123456789, https://x.com/otheruser/status/987654321
-```
++++
 
 4. Click **Run workflow** → ZIP appears in the **`x/`** folder
 
@@ -654,11 +779,13 @@ Downloads **any file** from a direct URL using `aria2c` (16 parallel connections
 3. Paste direct download URLs (e.g., `.zip`, `.mp4`, `.apk`, `.pdf`), separated by commas, spaces, or newlines
 
 **Example:**
-```
++++
 https://example.com/path/to/large-file.zip, https://example.com/another-file.mp4
-```
++++
 
 4. Click **Run workflow** → files appear in **`direct/`** (split into 99 MB parts if needed)
+
+> ℹ️ **Note:** To prevent conflicts with previous downloads, a random 5-character suffix is added to each filename. This lets you re-download the same file without errors.
 
 ---
 
@@ -704,9 +831,9 @@ Edit `telegram/channels.json` directly on GitHub (click the pencil icon ✏️).
 > ✅ `channelname` — correct
 
 **Example:**
-```
++++
 ["VahidOOnLine", "mwarmonitor", "pm_afshaa", "iaghapour", "DEJradio", "mamlekate", "kianmeli1"]
-```
++++
 
 > ⚠️ Only **public** channels work. Private channels cannot be accessed.
 
@@ -728,11 +855,11 @@ Turns any **public website** into a single, polished A4 PDF document. Uses **Pla
 3. Enter the full URL (must start with `https://`)
 
 **Examples:**
-```
++++
 https://example.com/article/my-post
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 https://github.com/ProAlit/aio-downloader
-```
++++
 
 4. Click **Run workflow** → within 5–10 minutes, the PDF appears in the **`website/`** folder
 
@@ -777,14 +904,14 @@ You are not limited to YouTube, nor to predefined settings. **You're in full con
 > ℹ️ **Note:** For sites like Instagram and TikTok that require cookies, first add your cookies to Secrets (section 3) and then include `--cookies /path/to/cookies.txt`. Leecher automatically reads the cookie secret and saves it in the expected location.
 
 #### 🟢 Don't forget Shortcut Mode:
-```
++++
 https://www.youtube.com/watch?v=dfdXGw1xY9A v 1080
 https://soundcloud.com/artist/track a 320
-```
++++
 
 1. Go to **Actions** → **leecher**
 2. Enter your inputs (you can mix shortcut and raw links in the same run)
-4. Outputs appear in the **`leecher/`** folder
+3. Outputs appear as ZIP files in the **`leecher/`** folder
 
 ---
 
@@ -805,6 +932,7 @@ This workflow lets you wipe downloads for any platform with one click.
 | **Website** | Entire `website/` folder |
 | **Leecher** | Entire `leecher/` folder |
 | **Google Play** | Entire `google-play/` folder |
+| **Direct Download** | Entire `direct/` folder |
 
 #### How to Run:
 
@@ -817,7 +945,7 @@ This workflow lets you wipe downloads for any platform with one click.
 
 ---
 
-### 9. Google Play APK Downloader 🆕
+### 9. Google Play APK Downloader
 
 📱 **Download Android APK files directly from Google Play!**  
 This workflow uses the `gplay-apk-downloader` tool to legally fetch installable packages (APKs) from Google's official servers — no Android device needed, no Google account required, fully automated.
@@ -833,26 +961,26 @@ This workflow uses the `gplay-apk-downloader` tool to legally fetch installable 
 
 1. Go to **Actions** → **google-play-downloader**
 2. Click **Run workflow**
-3. Fill in the three fields:
+3. Fill in the fields:
 
 | Field | Description | Required? |
 |-------|-------------|-----------|
-| **package_name** | Android package name (e.g., `com.google.android.youtube`) | ✅ Yes |
+| **app** | Google Play URL or package name (e.g., `com.google.android.youtube` or `https://play.google.com/store/apps/details?id=org.telegram.messenger`) | ✅ Yes |
 | **architecture** | Target device architecture: `arm64` (default) or `armv7` | ✅ Yes |
 | **merge_splits** | Merge split APKs into one file? (default: enabled) | ❌ Optional |
 
 **Examples:**
-```
-package_name: com.google.android.youtube
++++
+app: com.google.android.youtube
 architecture: arm64
 merge_splits: true
-```
++++
 
-```
-package_name: com.spotify.music
++++
+app: https://play.google.com/store/apps/details?id=com.spotify.music
 architecture: armv7
 merge_splits: false
-```
++++
 
 4. Click **Run workflow** → APK files (zipped) appear in the **`google-play/`** folder
 
@@ -862,7 +990,97 @@ merge_splits: false
 2. Look at the `id=` part in the URL — that's the package name
 3. Alternatively, use sites like [APKMirror](https://www.apkmirror.com) or [APKPure](https://apkpure.com) to search for the package name
 
+> ⚠️ **Note:** The Google Play authentication step may take a few minutes. If the workflow appears stuck at **generate random identifier**, be patient — this is part of the normal process.
+
 > ℹ️ This workflow fetches APK files directly from Google's servers, so the downloads are official and unmodified.
+
+---
+
+### 10. MHRV VPS Exit Node 🆕
+
+🔐 **Run a full VPS-type Exit Node for the MasterHttpRelayVPN project, right on GitHub Actions!**
+
+This workflow starts an HTTP relay server on port 8181, exposes it securely to the internet via a **cloudflared tunnel** through **trycloudflare.com**, and produces a temporary public URL that you can plug directly into your **MasterHttpRelayVPN** `config.json` as an `exit_node`.
+
+#### ✨ Features:
+- 🐍 Fully self-contained Python relay server (no personal VPS needed)
+- 🔒 **Pre-Shared Key (PSK)** authentication — no requests honored without the correct key
+- 🌐 Secure Cloudflare tunnel with free HTTPS (trycloudflare)
+- ⏱️ 6‑hour runtime (maximum GitHub Actions job duration)
+- 🛡️ SSRF protection — only public http/https URLs can be relayed
+- 🔄 Full HTTP proxy with support for all standard methods and headers
+
+#### 📝 How to Use:
+
+##### Step 1: Set the Secret
+1. Go to **Settings** → **Secrets and variables** → **Actions**
+2. Create a **New repository secret** named **`TUNNEL_AUTH_KEY`**
+3. Set a **strong, random PSK** (e.g., `MyStr0ng!RandomP@ssphrase2026`)
+
+> 🔴 **Critical:** This PSK must **exactly match** the `psk` (for exit node) or `auth_key` in your **MasterHttpRelayVPN** `config.json`.  
+> Path in config.json:  
+> `"exit_node": { "enabled": true, "provider": "vps", "url": "URL_FROM_WORKFLOW", "psk": "SAME_AS_TUNNEL_AUTH_KEY" }`
+
+##### Step 2: Run the Workflow
+1. Go to **Actions** → **mhrv-vps-exit-node-actions**
+2. Click **Run workflow**
+3. Wait for it to start (~20–30 seconds)
+
+##### Step 3: Get Your URL
+In the workflow log, you will see a line like:
++++
+https://random-name.trycloudflare.com
++++
+This is your exit node URL — copy it.
+
+##### Step 4: Configure MasterHttpRelayVPN
+
+Open your MasterHttpRelayVPN `config.json` and configure the `exit_node` section:
+
++++
+"exit_node": {
+  "enabled": true,
+  "provider": "vps",
+  "url": "https://random-name.trycloudflare.com",
+  "psk": "MyStr0ng!RandomP@ssphrase2026",
+  "mode": "full",
+  "hosts": ["chatgpt.com", "openai.com", "claude.ai", "anthropic.com"]
+}
++++
+
+| Field | Value |
+|-------|--------|
+| `provider` | `"vps"` (because this exit node is of VPS type) |
+| `url` | The URL you copied from the workflow log |
+| `psk` | **Exactly** the same PSK you set in `TUNNEL_AUTH_KEY` |
+| `mode` | `"full"` (all traffic via exit node) or `"selective"` (only listed hosts) |
+
+#### ⚙️ Technical Architecture (What Happens)
+
+1. **python-exit-node.py** starts an HTTP server on `127.0.0.1:8181`
+2. **cloudflared** creates a secure tunnel between the local server and Cloudflare's edge
+3. A temporary trycloudflare URL (HTTPS) is exposed to the world
+4. MasterHttpRelayVPN requests arrive at this URL, cloudflared forwards them to port 8181
+5. The Python server authenticates the request (via PSK) and relays it to the target destination
+
+#### ⚠️ Warnings & Important Notes:
+
+| Note | Description |
+|------|-------------|
+| 🔴 **Validity Period** | Max 6 hours — needs re-execution afterwards |
+| 🟡 **Temporary URL** | trycloudflare URLs are ephemeral; each run produces a new one |
+| 🔴 **PSK Security** | **Never** share the exit node URL together with a valid PSK |
+| 🟡 **Bandwidth Limits** | GitHub Actions has limited bandwidth — not suitable for heavy usage |
+| 🟢 **No Cookies Needed** | Only requires `TUNNEL_AUTH_KEY` |
+
+#### 🔧 Troubleshooting:
+
+| Error | Likely Cause | Fix |
+|-------|-------------|-----|
+| `unauthorized` in logs | Mismatched PSK | Ensure `psk` in config.json exactly matches `TUNNEL_AUTH_KEY` |
+| `server_psk_missing` | Secret not set | Create `TUNNEL_AUTH_KEY` in Secrets |
+| No URL appears | cloudflared didn't start | Re-run the workflow |
+| `bad_url` | Invalid or private URL | Only public http/https URLs can be relayed |
 
 ---
 
@@ -870,7 +1088,7 @@ merge_splits: false
 
 | Warning | Description |
 |---------|-------------|
-| 🔴 **Repository Size Limit** | GitHub free accounts have a ~5 GB soft limit. Downloaded files (especially videos and APKs) can fill this up quickly. **Use AIO Cleaner regularly!** |
+| 🔴 **Repository Size Limit** | GitHub free accounts have a ~5 GB soft limit. Downloaded files (especially videos and APKs) can fill this up quickly. Very large files (e.g., 4.3 GB) become dozens of ZIP parts and may fail to push. **Use AIO Cleaner regularly and keep total repo size under 5 GB!** |
 | 🟠 **Runtime** | Max 6 hours per job (public repos have unlimited minutes) |
 | 🟡 **Files >99 MB** | Split into multi‑part ZIPs — use 7‑Zip or WinRAR to extract |
 | 🟡 **Large Batches** | Split very large batches into smaller groups |
@@ -879,8 +1097,10 @@ merge_splits: false
 | 🟢 **Website Capture** | Only public sites (no login walls) |
 | 🔴 **Telegram Channel Names** | Must be **without @** |
 | 🟠 **Telegram Cron** | May experience delays of 1–6 hours. Manual trigger is more reliable |
-| 🔴 **Cookies** | Only export from a **Private/Incognito window** — close that window completely after exporting |
+| 🔴 **Cookies** | Only export from a **Private/Incognito window** — close that window completely after exporting. Expired cookies cause **Sign in to confirm you're not a bot** (YouTube) or **429 Too Many Requests** (Instagram) |
 | 🟢 **Google Play** | No Google account needed — authentication is automatic |
+| 🔴 **Folder Auto-Creation** | Output folders (e.g., `youtube/`, `leecher/`, `direct/`, etc.) are **automatically created** after the first successful download. No need to create them manually! |
+| 🟣 **MHRV Exit Node** | Max 6 hours — temporary trycloudflare URL — requires `TUNNEL_AUTH_KEY` |
 
 ---
 
