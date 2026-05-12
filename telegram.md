@@ -7,6 +7,42 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 03:42
+---
+
+## VahidOOnLine — post 239607
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در این فهرست،
+زندگی‌ها درست در آغاز راه متوقف شدند؛
+کسی که می‌خواست به دوستانش هشدار بدهد،
+کسی که تازه کار موردعلاقه‌اش را شروع کرده بود،
+دختری که مقاومت کرد،
+و جوانی که پیکرش در سکوت و ارعاب دفن شود.
+
+وحید هاشمی، محمدمهدی رضایی آدریانی، ساغر سیف‌اللهی، رضا اکبری، نیما عباسی، عرفان صفری، علی (فرزان) عربی و محمد جهاندیده
+
+جاویدنامان انقلاب ملی ایرانیان؛
+نام‌هایی که با هر تکرار، یادآوری می‌کنند این فهرست فقط از مرگ نوشته نشده؛ از زندگی‌هایی‌ست که ناگهان ناتمام ماندند.
+#جاویدنامان_انقلاب_ملی_ایرانیان
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341566
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341566_1778544777.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump hosts a Rose Garden Club dinner https://twitter.com/i/broadcasts/1yxBeMavvObJN
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 03:33
 ---
 
