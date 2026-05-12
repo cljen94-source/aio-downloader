@@ -7,6 +7,239 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 19:16
+---
+
+## VahidOOnLine — post 239729
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_239729_1778600792.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی به ایران اینترنشنال با اشاره به هشدار ترامپ درباره حمله و بردن ایران به «عصر حجر» گفت که جمهوری اسلامی با قطع اینترنت این کار را کرد و نه ترامپ. پیام این مخاطب و تصویر این پست با هوش مصنوعی خوانده و ساخته شده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341592
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+Read more:
+</div>
+
+## FoxNewsTwitter — post 341591
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341591_1778600795.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+A suspected gunman with a lengthy criminal history, identified as Tyler Brown, allegedly opened fire on random drivers along a Massachusetts roadway, critically injuring two people as outrage builds over why he had previously been released from prison.
+
+Authorities said the rampage ended when a Massachusetts State Police trooper and an armed Marine veteran rushed toward Brown as panicked drivers fled, with the Marine helping confront and stop the shooter before more people were hurt.
+
+Investigators say Brown fired dozens of rounds before being subdued and now faces multiple charges, including armed assault with intent to murder.
+</div>
+
+## FoxNewsTwitter — post 341590
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341590_1778600796.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Two corporate entities and a foreign shipping employee have been charged in the Francis Scott Key Bridge collapse.
+
+Federal prosecutors say the companies behind the container ship, along with a technical superintendent, altered critical fuel systems before the crash.
+
+"The indictment alleges that if the Dali had been using the proper fuel supply pumps, then the vessel would have regained power in time to safely navigate under the Key Bridge," U.S. Attorney Kelly Hayes says.
+
+Investigators say a second blackout sealed the outcome — turning a power loss into a deadly collapse that killed six workers.
+</div>
+
+## IranIntlTV — post 336840
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336840_1778600798.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+روزنامه وال‌استریت ژورنال گزارش داد جمهوری اسلامی در آستانه سفر دونالد ترامپ به چین، از طریق سفیر خود در پکن در تلاش است پیامی را به واشینگتن منتقل کند.
+سمیرا قرایی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 336839
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_336839_1778600800.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند در پیامی به ایران اینترنشنال با اشاره به هشدار ترامپ درباره حمله و بردن ایران به «عصر حجر» گفت که جمهوری اسلامی با قطع اینترنت این کار را کرد و نه ترامپ. پیام این مخاطب و تصویر این پست با هوش مصنوعی خوانده و ساخته شده است.
+</div>
+
+## FarsiVOA — post 217543
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سفرهای محرمانه قاآنی و هشدار آمریکا؛ عراق وارد مرحله‌ای سرنوشت‌ساز شد
+</div>
+
+## FarsiVOA — post 217542
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رئیس جمهوری آمریکا، قرار است این هفته در پکن با شی جین‌پینگ، رئیس جمهوری چین، دیدار کند. پیش‌بینی می‌شود پرونده‌های امنیتی، اقتصادی، و فناوری، جنگ و برنامه هسته‌ای جمهوری اسلامی، و هوش مصنوعی موضوعاتی باشند که در این دیدار مورد بحث و تبادل نظر قرار بگیرد.
+</div>
+
+## Persian_Trend_Official — post 13990
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_13990_1778600802.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 اختصاصی |تورم آمریکا بالاتر از انتظار ثبت شد
+
+تورم آمریکا در ماه آوریل بار دیگر شتاب گرفت؛ موضوعی که تحت تأثیر افزایش قیمت بنزین، مواد غذایی و تبعات جنگ ایران رخ داده است.
+
+بر اساس داده‌های منتشرشده:
+
+▪️ نرخ تورم سالانه آمریکا به ۳.۸ درصد رسید
+▪️ بازار انتظار عدد ۳.۷ درصدی را داشت
+▪️ این سریع‌ترین رشد تورم از سال ۲۰۲۳ محسوب می‌شود
+
+همچنین:
+
+▪️ تورم ماهانه ۰.۶ درصد ثبت شد
+▪️ تورم هسته ماهانه به ۰.۴ درصد رسید
+▪️ تورم هسته سالانه نیز ۲.۸ درصد اعلام شد
+▪️ هر دو شاخص هسته بالاتر از پیش‌بینی‌ها بودند
+
+افزایش قیمت:
+
+انرژی
+بلیت هواپیما
+و مواد غذایی
+
+نشان می‌دهد فشارهای تورمی ممکن است در ماه‌های آینده نیز ادامه پیدا کند؛ حتی در صورت حفظ آتش‌بس یا کاهش تنش‌ها در تنگه هرمز
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20011
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20011_1778600802.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 شهبازی مجری صداوسیما در مورد نت 5G افغانستان و سیستم بانک جهانی‌ سوریه:
+
+اگه اینارو میخوایید داشته باشید، برید همون سوریه و افغانستان زندگی کنید!
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280857
+
+<div align="center">
+  <a href="https://t.me/bbcpersian/280857" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کِلسی داونپورت: ایران تا سلاح اتمی، فقط یک تصمیم سیاسی فاصله دارد_ گفت‌وگوی ویژه
+کِلسی داونپورت، از چهره‌های شناخته‌شده در حوزهٔ منع گسترش سلاح‌های هسته‌ای و مدیر سیاست‌گذاری عدم‌اشاعه در انجمن کنترل تسلیحات در آمریکا، یکی از دقیق‌ترین و صریح‌ترین تحلیلگران دربارهٔ برنامه هسته‌ای ایران است. او سال‌هاست تحولات مربوط به ایران، آمریکا و آژانس بین‌المللی انرژی اتمی را دنبال می‌کند و از منتقدان جدی سیاست‌های دولت ترامپ در این پرونده است.
+در گفت‌وگویی با فرناز قاضی‌زاده، خانم داونپورت با جزئیات توضیح می‌دهد که چرا حملات اخیر به تأسیسات هسته‌ای ایران نه‌تنها این برنامه را نابود نکرده، بلکه ممکن است انگیزهٔ سیاسی ایران برای حرکت به سمت سلاح را افزایش داده باشد. او می‌گوید تا زمانی که ذخایر اورانیوم غنی‌شدهٔ ایران باقی است و آژانس دسترسی لازم برای بررسی این برنامه را ندارد، در صورت تصمیم سیاسی برای ساخت سلاح، ایران از دانش و امکانات لازم برخوردار است.
+@BBCPersian
+</div>
+
+## Hranews — post 112908
+
+<div align="center">
+  <img src="telegram/content/Hranews_112908_1778600804.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عدم رسیدگی پزشکی؛ گزارش جدید از وضعیت محشر پرندین، نوکیش مسیحی در زندان اوین
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– محشر (محترم) پرندین، نوکیش مسیحی محبوس در زندان اوین، با وجود ابتلا به بیماری قلبی و همچنین دو تومور در ناحیه زیر گلو و مجاورت مخچه، از رسیدگی تخصصی پزشکی و اعزام به مراکز درمانی خارج از زندان محروم مانده است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، محشر (محترم) پرندین، نوکیش مسیحی محبوس در #زندان_اوین از رسیدگی درمانی محروم مانده است.
+
+یک منبع مطلع از وضعیت جسمانی این نوکیش مسیحی، ضمن تایید این خبر به هرانا گفت: “محشر پردیدن از بیماری حاد قلبی و همچنین دو تومور در ناحیه زیر گلو و مجاورت مخچه رنج می‌برد. بنا بر تشخیص پزشک زندان، وضعیت جسمی وی نگران‌کننده بوده و این تومورها نیازمند جراحی فوری هستند. با این حال، وی تاکنون از اعزام به مراکز درمانی تخصصی محروم مانده است.”
+به گفته یک منبع مطلع، تومور قرارگرفته در مجاورت مخچه بر وضعیت جسمانی خانم پردیدن اثر گذاشته و موجب اختلال در تعادل، حرکت و تکلم او شده است؛ به‌طوری که گفتار وی با مکث‌های محسوس همراه است.
+
+ادامه مطلب
+
+#محشر_پردیدن
+#محترم_پرندین
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## Hranews — post 112907
+
+<div align="center">
+  <img src="telegram/content/Hranews_112907_1778600804.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💥 دعوت به همکاری با خبرگزاری هرانا
+
+خبرگزاری هرانا، با بیش از دو دهه سابقه در حوزه گزارشگری و مستندسازی حقوق بشر، در راستای توسعه فعالیت‌های خود از علاقه‌مندان واجد شرایط برای همکاری دعوت می‌کند.
+
+هرانا در این مرحله بیش از آن‌که به دنبال افراد با سابقه حرفه‌ای باشد، به دنبال افرادی متعهد، دقیق و آموزش‌پذیر است؛ کسانی که دغدغه واقعی حقوق بشر دارند و مایل‌اند در یک چارچوب حرفه‌ای، مهارت‌های خود را توسعه دهند.
+
+زمینه‌های همکاری شامل:
+گزارشگری، ویراستاری، ترجمه، مدیریت شبکه‌های اجتماعی و سایر حوزه‌های مرتبط
+
+ویژگی‌های مورد انتظار:
+
+* تسلط کافی به زبان فارسی (خواندن و نوشتن)
+* دقت، مسئولیت‌پذیری و توانایی یادگیری مستمر
+* علاقه و حساسیت نسبت به موضوعات حقوق بشر
+* آمادگی برای فعالیت در چارچوب‌های سازمان‌یافته و حرفه‌ای
+
+❗️ توجه: این فرصت همکاری فقط شامل کسانی است که به زبان فارسی مسلط و ساکن یکی از کشورهای "ترکیه، قبرس شمالی، هندوستان، مصر، قرقیزستان، ازبکستان، کلمبیا، پاراگوئه، قزاقستان، سریلانکا، بلغارستان و رومانی" هستند.
+
+همکاری با هرانا فرصتی است برای کسب تجربه عملی در حوزه مستندسازی و فعالیت‌های حقوق بشری در یک نهاد با سابقه و ساختار حرفه‌ای.
+
+📎 برای ثبت درخواست همکاری، لطفا فرم زیر را تکمیل کنید:
+https://hra.news/4cBjHqs
+
+📩 در صورت بروز مشکل در تکمیل فرم، می‌توانید رزومه و اطلاعات تماس خود را به آدرس زیر ارسال نمایید:
+info@hra-news.org
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## alonews — post 119519
+
+<div align="center">
+  <a href="telegram/content/alonews_119519_1778600805.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈واکنش‌ شهبازی مجری کریح المنظر تلویزیون به نت 5G افغانستان و سیستم بانک جهانی‌ سوریه:
+
+
+🔴 اگه اینارو میخوایید داشته باشید، برید همون سوریه و افغانستان زندگی کنید!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 19:04
 ---
 
