@@ -7,6 +7,105 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 22:15
+---
+
+## mwarmonitor — post 9053
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9053_1778697935.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸کشتی USNS Henry J. Kaiser (T-AO-187) متعلق به نیروی دریایی آمریکا و یک ناوشکن آمریکایی امروز در دریای عرب در مختصات زیر مشاهده شده‌اند:
+
+📍22.7488, 61.2222 و 22.0751, 61.5995
+
+🚢نفتکش گروه ضربتی ناو هواپیمابر ۳ (CSG-3) در حال انجام عملیات سوخت‌رسانی در دریا (Replenishment-at-sea) بوده و ناوشکن نیز در حال انجام عملیات دفاع چندبُعدی و مأموریت‌های امنیت دریایی است.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341667
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341667_1778697936.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: Vice President JD Vance rips the Biden administration’s failure to prevent medical identity theft after a California psychotherapist was stripped of her benefits.
+
+Vance highlights the doctor's case — 40 years in the medical field only to have her Medicare "turned off" because a fraudster exploited the system.
+
+"A fraudster had stolen her identity and signed her up for healthcare services that she didn't need, and so she had been turned off of the healthcare services that she did need."
+
+“This happens way too much in the United States of America. And it happens because until recently, we did not have a government or an administration that actually took the fraud program and took anti-fraud prevention seriously."
+</div>
+
+## VahidOnline — post 75452
+
+<div align="center">
+  <img src="telegram/content/VahidOnline_75452_1778697939.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمد عباسی، از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴، سحرگاه روز چهارشنبه ۲۳ اردیبهشت در زندان قزلحصار اعدام شد.
+
+یک منبع مطلع نزدیک به خانواده محمد عباسی با اعلام این خبر به خبرگزاری هرانا گفت مسوولان زندان قزلحصار از خانواده او خواسته بودند برای ملاقات به زندان مراجعه کنند، اما پس از حضور خانواده، امکان ملاقات از آن‌ها سلب شد.
+به گفته این منبع، خانواده عباسی پس از ترک زندان، در تماس تلفنی از اجرای حکم اعدام او مطلع شدند.
+@VahidHeadline
+
+📡 @VahidOnline
+</div>
+
+## IranIntlTV — post 337047
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337047_1778697940.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+
+@iranintltv
+</div>
+
+## FarsiVOA — post 217655
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217655_1778697942.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علم صالح در برنامه تفسیر خبر: جنگ باعث شد جمهوری اسلامی نفت خود را با قیمت ۱۰۳ دلار بفروشد
+</div>
+
+## FarsiVOA — post 217654
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_217654_1778697943.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی عربشاهی در برنامه تفسیر خبر: علی خامنه‌ای با کلمه توسعه مشکل داشت
+</div>
+
+## FarsiVOA — post 217653
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اعدام احسان افراشته، زندانی سیاسی، توسط جمهوری اسلامی؛ گفت‌وگو با حسین احمدی‌نیاز
+</div>
+
+## alonews — post 119803
+
+<div align="center">
+  <a href="telegram/content/alonews_119803_1778697945.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای نیویورک تایمز: شرکت‌‌های چینی به دنبال فروش سلاح به ایران هستند و قصد دارند آنها را از طریق کشورهای دیگر ارسال کنند تا منبع خود را پنهان کنند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 22:06
 ---
 
