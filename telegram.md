@@ -7,6 +7,192 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 16:08
+---
+
+## VahidOOnLine — post 239896
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239896_1778675930.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت: «تنها سناریو پیش‌رو این است که آمریکا واقعیت‌ها را بپذیرد و با پذیرش این واقعیات، با ایران وارد مذاکره شود تا از شرایط جنگی خارج شود.»
+
+او اضافه کرد: «به هیچ‌ وجه دستاورد تنگه هرمز را از دست نخواهیم داد و به هیچ‌ وجه وارد بحث مذاکره درباره غنی‌سازی هسته‌ای نخواهیم شد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 239895
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_239895_1778675930.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه در مراسم استقبال رسمی با تشریفات گسترده وارد پکن شد. بر اساس اعلام کاخ سفید، هان ژنگ، معاون رییس‌جمهوری چین، به همراه شماری از مقام‌ها از جمله دیوید پردیو، سفیر آمریکا در چین، شی فنگ، سفیر چین در آمریکا، و ما ژائوشو، معاون اجرایی وزیر خارجه چین، در فرودگاه از ترامپ استقبال کردند.
+
+همچنین ۳۰۰ نوجوان چینی با لباس‌های هماهنگ آبی و سفید در باند فرودگاه و با در دست داشتن پرچم‌های چین و آمریکا رژه رفتند. یگان تشریفات نظامی و یک گروه موسیقی نظامی نیز در این مراسم حضور داشتند.
+
+قرار است شی جین‌پینگ صبح پنجشنبه به وقت محلی به‌طور رسمی از دونالد ترامپ استقبال کند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11149
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11149_1778675931.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لحظه ورود ترامپ به چین-پکن همراه ایلان ماسک و همراهان
+@withyashar
+</div>
+
+## mwarmonitor — post 9033
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9033_1778675933.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸کاروان خودرویی رئیس‌جمهور ترامپ فرودگاه بین‌المللی پکن را به مقصد هتل ترک می‌کند.
+
+فردا، ترامپ در مراسم رسمی استقبال دولتی شرکت خواهد کرد، با رئیس‌جمهور شی جین‌پینگ دیدار می‌کند، چندین مصاحبه انجام خواهد داد و در چند رویداد رسمی دیگر نیز حضور خواهد داشت.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9032
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9032_1778675935.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸ترامپ در حال حرکت روی فرش قرمز در پکن است — و برای لحظه‌ای حرکت معروف مشت گره‌کرده‌اش را به گارد افتخار نظامی و جوانان پرچم‌به‌دست چینی که صف کشیده‌اند نشان می‌دهد.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 336986
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336986_1778675936.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علاءالدین بروجردی، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، گفت: «تنها سناریو پیش‌رو این است که آمریکا واقعیت‌ها را بپذیرد و با پذیرش این واقعیات، با ایران وارد مذاکره شود تا از شرایط جنگی خارج شود.»
+
+او اضافه کرد: «به هیچ‌ وجه دستاورد تنگه هرمز را از دست نخواهیم داد و به هیچ‌ وجه وارد بحث مذاکره درباره غنی‌سازی هسته‌ای نخواهیم شد.»
+https://iranintl.com/202605133735
+</div>
+
+## IranIntlTV — post 336985
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران اینترنشنال از وضعیت معیشتی بد خود و عدم توان پرداخت پول برای داروی مادر بیمارش می‌گوید.
+</div>
+
+## IranIntlTV — post 336984
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_336984_1778675936.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، چهارشنبه در مراسم استقبال رسمی با تشریفات گسترده وارد پکن شد. بر اساس اعلام کاخ سفید، هان ژنگ، معاون رییس‌جمهوری چین، به همراه شماری از مقام‌ها از جمله دیوید پردیو، سفیر آمریکا در چین، شی فنگ، سفیر چین در آمریکا، و ما ژائوشو، معاون اجرایی وزیر خارجه چین، در فرودگاه از ترامپ استقبال کردند.
+
+همچنین ۳۰۰ نوجوان چینی با لباس‌های هماهنگ آبی و سفید در باند فرودگاه و با در دست داشتن پرچم‌های چین و آمریکا رژه رفتند. یگان تشریفات نظامی و یک گروه موسیقی نظامی نیز در این مراسم حضور داشتند.
+
+قرار است شی جین‌پینگ صبح پنجشنبه به وقت محلی به‌طور رسمی از دونالد ترامپ استقبال کند.
+https://iranintl.com/202605139112
+</div>
+
+## Persian_Trend_Official — post 14058
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14058_1778675937.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ فارس:
+
+تصاویر دیده‌نشده از رزمایش ضد هلی‌برن سپاه تهران بزرگ
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14057
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14057_1778675939.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ برخی از رسانه‌های فرانسوی دست به انتشار گزارشی به نقل از «فلورین تاردیف» خبرنگار «پاری‌مچ» زده‌اند که حکایت از روابط پنهانی امانوئل ماکرون و گلشیفته فراهانی دارد.
+
+این خبرنگار فرانسوی در گزارش خود نوشته که سیلی که زن ماکرون به او در کنار در خروجی هواپیما زد، به خاطر همین رابطه بوده.
+
+منبع خبر
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Dirty_Kids — post 389375
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389375_1778675940.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مراسم استقبال از شیرخدا با شعار چینی‌های قرمساق در صحنه که به زبون چینی می‌گفتن:
+
+عمو ترامپ، عیان شد
+چین مرکز، جهان شد
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 119720
+
+<div align="center">
+  <a href="telegram/content/alonews_119720_1778675940.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امارات در حال نصب شبکه‌های بزرگ ضد پهپادی فلزی در اطراف محل‌های تولید و ذخایر نفتی اطراف فرودگاه دبی است تا در برابر حملات پهپاد انتحاری آسیب کمتری به آنها برسد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119719
+
+<div align="center">
+  <a href="telegram/content/alonews_119719_1778675940.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈این وسط تعرفه پیامک‌ فارسی و انگلیسی هم گران شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119718
+
+<div align="center">
+  <a href="telegram/content/alonews_119718_1778675941.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈نسرین ستوده، وکیل دادگستری ساعاتی پیش با قرار کفالت از زندان تهران بزرگ آزاد شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 15:53
 ---
 
