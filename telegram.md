@@ -7,6 +7,181 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 20:14
+---
+
+## WithYashar — post 11158
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11158_1778690673.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+امشب چین 😂
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341656
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+BREAKING: Senate rejects Democrat-backed Iran resolution to handcuff Trump's war powers for 7th time, with Republicans Lisa Murkowski joining Rand Paul and Susan Collins in supporting the measure
+</div>
+
+## FoxNewsTwitter — post 341655
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341655_1778690674.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Former Border Patrol agent Ammon Blair reveals how officials were “mandated to look the other way” as the migrant crisis grew under the Biden administration.
+
+“We were mandated to look the other way under prosecutorial discretion, we released known terrorists where we didn't know it until after the fact.”
+
+“We had multiple people from all across the world coming into the United States with falsified documents, specifically from Iran, who'd come in with Venezuelan documents.”
+</div>
+
+## FoxNewsTwitter — post 341654
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+“Slavery is over. Jim Crow is dead.”
+
+Rep. Wesley Hunt pushes back on what he calls “reinvigorated talk” of Jim Crow, while defending the idea that America is a Christian nation:
+
+"As someone who is a direct descendant of a slave, as someone whose great-great-grandfather was born on a plantation, I can assure you, slavery is over. Jim Crow is dead."
+
+"I am a Black man representing a White-majority district in Texas, the great-great-grandson of a man born on a plantation stands before you today as a proud, conservative Republican from Texas. As a believer and follower in Christ."
+</div>
+
+## pm_afshaa — post 90698
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90698_1778690676.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سنتکام: از آغاز محاصره دریایی 67 کشتی مجبور به تغییر مسیر شدن.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## Persian_Trend_Official — post 14067
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14067_1778690676.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 عراقچی: کویت به یک قایق ایرانی حمله کرده و ۴ شهروند ایرانی را بازداشت کرده است
+
+💢عباس عراقچی، وزیر خارجه ایران، اعلام کرد کویت در اقدامی «غیرقانونی» به یک قایق ایرانی در خلیج فارس حمله کرده و ۴ شهروند ایرانی را بازداشت کرده است.
+
+او مدعی شد:
+
+▪️ این اقدام با هدف ایجاد اختلاف و تنش در منطقه انجام شده است
+▪️ حادثه در نزدیکی جزیره‌ای رخ داده که آمریکا از آن برای حمله به ایران استفاده کرده است
+▪️ تهران خواستار آزادی فوری شهروندان بازداشت‌شده شده
+▪️ ایران حق پاسخ‌گویی به این اقدام را برای خود محفوظ می‌داند
+
+💢این اظهارات پس از آن مطرح می‌شود که کویت اعلام کرده ۴ فرد وابسته به سپاه پاسداران را هنگام ورود دریایی به جزیره بوبیان بازداشت کرده است؛ ادعایی که تهران آن را رد کرده و گفته ورود قایق به آب‌های کویت ناشی از اختلال در سامانه ناوبری بوده است.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157146
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157146" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📻بشنوید: ایستگاه ۱۹ با رادیوفردا، ۲۳ اردیبهشت ۱۴۰۵
+
+@RadioFarda
+</div>
+
+## RadioFarda — post 157145
+
+<div align="center">
+  <a href="https://t.me/radiofarda/157145" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حسین احمدی‌نیاز: هیچ ضمانت قانونی برای بازگشت ایرانیان به کشور وجود ندارد
+
+🔸قوه قضاییه جمهوری اسلامی روز ۲۳ اردیبهشت از اجرای یک حکم اعدام دیگر در ایران خبر داد. نام احسان افراشته ۳۳ ساله، متخصص شبکه و امنیت سایبری در حالی به فهرست بلند اعدام‌شدگان هفته‌های اخیر اضافه شد که دو منبع به رادیو فردا گفتند او پیش از بازگشت به ایران از ترکیه در اوايل سال ۱۴۰۳، به‌طور «داوطلبانه» خود را به نهادهای اطلاعاتی ایران معرفی کرده و تلاش یک سرویس امنیتی خارجی برای سوءاستفاده از خود را با آن‌ها در میان گذاشته بود. منابع رادیوفردا می‌گویند احسان افراشته در پی هماهنگی با وزارت اطلاعات تصمیم به بازگشت داوطلبانه به ایران می‌گیرد، اما پس از بازگشت بلافاصله در فرودگاه بازداشت، به انفرادی منتقل و در نهایت اعدام می‌شود. ارزیابی حسین احمدی‌نیاز حقوقدان ساکن هلند را بشنوید که به رادیوفردا می‌گوید عناصر مختلفی در پرونده وجود دارد که نشان می‌دهد حکم اعدام در پی یک دادرسی ناعادلانه صادر و اجرا شده است.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20079
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20079_1778690677.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 اکانت اسرائیل به فارسی:
+
+وقتی به زودی به اسرائیل سفر کنید، این منظره زیبا از پنجره هواپیما در انتظار شماست. به امید دیدار شما در تل‌آویو یا تهران.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 280948
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_280948_1778690679.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻علیرضا ‌رئیسی، معاون وزیر بهداشت ایران در نشستی خبری امروز ۲۳ اردیبهشت در رابطه با احتمال ورود ویروس هانتا در ایران تاکید کرد که این ویروس «تاکنون مشاهده نشده است.»
+
+شیوع ویروس هانتا، اوایل ماه مه در کشتی بزرگ تفریحی ام‌وی هاندی‌یوس که از آرژانتین به سمت قطب جنوب از مسیر اقیانوس اطلس در حرکت بوده، رخ داد.
+
+معاون وزیر بهداشت با اشاره به این موضوع و بسته بودن تنگه هرمز احتمال ورود این ویروس به ایران از طریق مشابه را تقریبا محال دانست و به شوخی گفت: اگر حتی یک قایق بادی از این تنگه عبور کند در هوا می‌زنندش.»
+
+سازمان جهانی بهداشت می‌گوید انتقال این ویروس از طریق انسان به انسان ممکن است، اما خطر گسترش عفونت در سطح جهانی همچنان پایین است.
+
+آزمایش‌هایی برای تشخیص این عفونت وجود دارد، اما درمان اختصاصی برای آن وجود ندارد.
+ادامه این گزارش را اینجا بخوانید.
+@BBCPersian
+</div>
+
+## alonews — post 119783
+
+<div align="center">
+  <a href="telegram/content/alonews_119783_1778690680.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈عراقچی : کویت به‌صورت غیرقانونی به یه قایق ایرانی حمله کرده و ۴ تا از شهرامون رو تو خلیج فارس بازداشت کرده
+
+
+🔴ما آزادی فوری‌شون رو می‌خوایم و حق پاسخ‌گویی هم برای خودمون محفوظ می‌دونیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 119782
+
+<div align="center">
+  <a href="telegram/content/alonews_119782_1778690680.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈اکونومیست: طولانی شدن بحران ایران می‌تواند آسیب جبران‌ناپذیری به کشورهای حاشیه خلیج‌ [فارس] وارد کند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 20:05
 ---
 
