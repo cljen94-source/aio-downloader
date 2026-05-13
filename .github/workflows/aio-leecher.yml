@@ -12,6 +12,9 @@ on:
           Video: `max` | `min` | height (e.g. 480, 720, 1080, 4k) [optional fps e.g. `1080 30`]
           Audio: `max` | `min` | bitrate in kbps (e.g. 128, 192, 320)
         required: true
+        
+permissions:
+  contents: write
 
 jobs:
   actions:
