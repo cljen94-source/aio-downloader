@@ -7,6 +7,80 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 11:33
+---
+
+## WithYashar — post 11121
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارش مرکز ژئوفیزیک از شدت ۹ زمین‌لرزه بالای ۲.۵ ریشتر در پردیس از روز گذشته تاکنون
+
+ساعت ۲۰:۴۱ — بزرگی ۳.۴ ریشتر
+ساعت ۲۳:۴۶ — بزرگی ۴.۶ ریشتر
+ساعت ۲۳:۵۰ — بزرگی ۲.۶ ریشتر
+ساعت ۰۰:۲۰ — بزرگی ۲.۶ ریشتر
+ساعت ۰۰:۲۶ — بزرگی ۴ ریشتر
+ساعت ۰۰:۳۲ — بزرگی ۳.۴ ریشتر
+ساعت ۰۰:۵۴ — بزرگی ۲.۶ ریشتر
+ساعت ۰۳:۲۹ — بزرگی ۳.۱ ریشتر
+ساعت ۰۵:۵۷ — بزرگی ۳.۳ ریشتر
+
+@withyashar
+</div>
+
+## WithYashar — post 11120
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+غضنفری:شواهد و قرائن نشان می‌دهد که آمریکا و اسرائیل قصد انجام یک عملیات گسترده برای تصرف برخی از جزایر جنوب را دارند
+@withyashar
+</div>
+
+## WithYashar — post 11119
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11119_1778659416.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حضور 53 جنگنده F-16 آمریکایی در پایگاه شاهزاده سلطان عربستان هواپیما جاسوسی آواکس هم که دیشب نشون دادم از این پایگاه نظامی بلند شده بود
+@withyashar
+</div>
+
+## Persian_Trend_Official — post 14036
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14036_1778659417.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚀 اینترنت پرسرعت و پایدار،
+💰 قیمت هر گیگ ۲۵۰ تومن!
+🎁 تخفیف ویژه: ۱۰٪ تخفیف اختصاصی برای اعضای پرشین ترند
+⚡ پایداری بالا: کمترین قطعی ممکن در بدترین شرایط
+🛡️ تضمین کیفیت: پشتیبانی ۲۴ ساعته + گارانتی بازگشت وجه
+
+🛒 جهت خرید و مشاوره پیام دهید:
+
+🆔 @shayan1057
+
+🆔 @shayan1057
+
+🆔 @shayan1057
+</div>
+
+## alonews — post 119664
+
+<div align="center">
+  <a href="telegram/content/alonews_119664_1778659417.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رویترز: قیمت نفت روز چهارشنبه پس از سه روز افزایش شدید، کاهش یافت، در حالی که قیمت طلا ثابت ماند، زیرا سرمایه‌گذاران در انتظار نشست مورد انتظار ترامپ و شی جین پینگ، همتای چینی او در پکن، در بحبوحه تنش‌های مداوم مربوط به جنگ در ایران و بسته شدن تنگه هرمز هستند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 11:25
 ---
 
