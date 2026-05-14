@@ -7,6 +7,31 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 08:14
+---
+
+## mwarmonitor — post 9061
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚽️خبر فوتبالی از نیویورک تایمز:
+
+🎙شکیرا، مدونا و گروه BTS اجرای نخستین نمایش بین دو نیمه را در فینال جام جهانی فوتبال بر عهده خواهند داشت.
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 337100
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337100_1778733879.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای پنجشنبه ۲۴ اردیبهشت
+@iranintltv
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 08:03
 ---
 
